@@ -1157,7 +1157,7 @@ function WindowMethods:BuildInterfaceTab(tab)
             "Meow",
             "Silver",
         },
-        Default = self.ThemeName or "Netanyahu",
+        Default = self.ThemeName or "Silver",
         Description = "Choisis une bannière prédéfinie.",
 
         Callback = function(value)
