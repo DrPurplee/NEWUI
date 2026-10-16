@@ -78,8 +78,14 @@ Library.BannerThemes = {
 
     ["Totally Spies"] = {
     Banner = "73104258218019",
-    Accent = Color3.fromRGB(255, 105, 180),
+    Accent = Color3.fromRGB(157, 0, 181),
     Accent2 = Color3.fromRGB(255, 182, 193),
+    },
+
+    ["Mamadou Segpa"] = {
+    Banner = "128095918475103",
+    Accent = Color3.fromRGB(255, 105, 180),
+    Accent2 = Color3.fromRGB(187, 0, 216),
     },
 
     ["Silver"] = {
@@ -1155,6 +1161,7 @@ function WindowMethods:BuildInterfaceTab(tab)
             "Rabbits",
             "Totally Spies",
             "Meow",
+            "Mamadou Segpa",
             "Silver",
         },
         Default = self.ThemeName or "Silver",
