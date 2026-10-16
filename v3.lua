@@ -83,7 +83,7 @@ Library.BannerThemes = {
     },
 
     ["Mamadou Segpa"] = {
-    Banner = "128095918475103",
+    Banner = "96736622723369",
     Accent = Color3.fromRGB(255, 105, 180),
     Accent2 = Color3.fromRGB(187, 0, 216),
     },
