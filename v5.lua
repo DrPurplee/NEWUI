@@ -1160,7 +1160,7 @@ function WindowMethods:BuildInterfaceTab(tab)
         Values = {
             "Netanyahu",
             "4CHAN",
-            "Jacob",
+            "JACOB",
             "Omerta Chinoise",
             "Orlax Le Barbar",
             "Laurent Voulzy",
