@@ -46,6 +46,12 @@ Library.BannerThemes = {
         Accent2 = Color3.fromRGB(38, 101, 42),
     },
 
+     ["JACOB"] = {
+        Banner = "131157906984981",
+        Accent = Color3.fromRGB(74, 163, 74),
+        Accent2 = Color3.fromRGB(38, 101, 42),
+    },
+
     ["Omerta Chinoise"] = {
         Banner = "137610941148819",
         Accent = Color3.fromRGB(220, 35, 35),
@@ -1154,6 +1160,7 @@ function WindowMethods:BuildInterfaceTab(tab)
         Values = {
             "Netanyahu",
             "4CHAN",
+            "Jacob",
             "Omerta Chinoise",
             "Orlax Le Barbar",
             "Laurent Voulzy",
